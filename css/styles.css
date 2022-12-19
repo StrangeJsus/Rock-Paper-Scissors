@@ -46,7 +46,7 @@ header img {
     display: inline-block;
     padding: 5px 5px;
     margin:  0 10px;
-    background-color: aqua;
+    background-color: rgb(61, 227, 227);
     border-color: rgb(10, 119, 119);
     border-radius: 15%;
     color: rgb(9, 82, 111);
@@ -60,9 +60,9 @@ header img {
     padding: 5px 7px;
     margin:  0 10px;
     background-color: rgb(6, 65, 65);
-    border-color: rgb(12, 214, 214);
+    border-color: rgba(12, 214, 214, 0.875);
     border-radius: 15%;
-    color: rgb(12, 214, 214);
+    color: rgba(12, 214, 214, 0.897);
     font-size: 18px;
     font-weight: 700;
     cursor: pointer;
